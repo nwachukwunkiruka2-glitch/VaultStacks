@@ -3,14 +3,8 @@
 ;; summary:
 ;; description:
 
-;; traits
-;;
-
-;; token definitions
-;;
-
 ;; constants
-;;
+(define-constant CONTRACT_OWNER tx-sender)
 
 ;; data vars
 ;;
